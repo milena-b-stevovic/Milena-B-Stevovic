@@ -23,28 +23,28 @@
 </p>
 
 
-## 🚀 About Me 
+## 👩🏼‍🦰 About Me 
 I am a Senior Statistician and Data Analyst with 16+ years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
 
 Over my career, I’ve designed statistical surveys, built automated pipelines, developed forecasting models, and created interactive dashboards that empower stakeholders to understand their data and act strategically.
 
-I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data—so they can reach objectives, improve efficiency, and innovate with confidence.
+With expertise in Excel, Power Query, SQL, Power BI, and Python, I blend statistical regor with clear communication to create solutions that are reliable, scalable, and aligned with business needs.
 
-I specialize in Excel, Power Query, SQL, and Python, combining technical rigor with clear communication to deliver solutions that are accurate, reproducible, and business‑focused.
+I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data—so they can reach objectives, improve efficiency, and innovate with confidence.
 
 I enjoy the spark of discovery when data reveals hidden patterns and opportunities.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
       
-## 🔭 What I'm Currently Working On 
+## 📂 Featured Projects
 
-- **Project A:** Building a sales forecasting model in Python.  
-- **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Project 1:** Financial Insights Dashboard.
+- **Project 2:** Industry Peer Benchmarking Framework.
+- **Project 3:** Building a sales forecasting model in Python.
 
-## 🌱 Currently Learning 
+## 📝 Currently Working on 
 
-- Advanced machine learning techniques in Scikit-learn.
-- Cloud data warehousing with Google BigQuery.
+- Energy Expenditure Tracker for Households with Streamlit.
 
 ## 🛠️ Technical Skillset
 
