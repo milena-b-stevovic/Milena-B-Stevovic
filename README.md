@@ -1,16 +1,74 @@
-## Hi there 👋
+## Hi, I'm Milena 👋
 
-<!--
-**milena-b-stevovic/Milena-B-Stevovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=835&lines=Sr.+Statistician+%26+Data+Analyst👩‍💻;Turning+Raw+Data+into+Result-oriented+Insights🎯;Excel+%7C+Power+Query+%7C+SQL+%7C+Python+%7C+Power+BI+🛠️" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<!-- 🔗 Update these links with your own social media and contact information -->
+<p align="center">
+  <a href="https://linkedin.com/in/milena-b-stevovic">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your.drstevovic@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://medium.com/@your-medium-username">
+    <img src="https://img.shields.io/badge/Medium-Read-red?style=for-the-badge&logo=medium">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me 
+I am a Senior Statistician and Data Analyst with 16+ years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
+
+Over my career, I’ve designed statistical surveys, built automated pipelines, developed forecasting models, and created interactive dashboards that empower stakeholders to understand their data and act strategically.
+
+I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data—so they can reach objectives, improve efficiency, and innovate with confidence.
+
+I specialize in Excel, Power Query, SQL, and Python, combining technical rigor with clear communication to deliver solutions that are accurate, reproducible, and business‑focused.
+
+I enjoy the spark of discovery when data reveals hidden patterns and opportunities.
+
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+      
+## 🔭 What I'm Currently Working On 
+
+- **Project A:** Building a sales forecasting model in Python.  
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
+
+## 🌱 Currently Learning 
+
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
+
+## 🛠️ Technical Skillset
+
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+#### Data Analysis & Visualization
+<p>
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Experienced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Query-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+</p>
+
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Experienced-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+</p>
+
+#### Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Survey%20Design-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-Expert-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
