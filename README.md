@@ -28,7 +28,7 @@ I am a Senior Statistician and Data Analyst with 16+ years of experience transfo
 
 Over my career, I’ve designed statistical surveys, built automated pipelines, developed forecasting models, and created interactive dashboards that empower stakeholders to understand their data and act strategically.
 
-With expertise in Excel, Power Query, SQL, Power BI, and Python, I blend statistical regor with clear communication to create solutions that are reliable, scalable, and aligned with business needs.
+With expertise in Excel, Power Query, SQL, Power BI, and Python, I blend statistical rigor with clear communication to create solutions that are reliable, scalable, and aligned with business needs.
 
 I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data—so they can reach objectives, improve efficiency, and innovate with confidence.
 
