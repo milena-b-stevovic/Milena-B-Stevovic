@@ -30,7 +30,7 @@ Over my career, I’ve designed statistical surveys, built automated pipelines, 
 
 With expertise in Excel, Power Query, SQL, Power BI, and Python, I blend statistical rigor with clear communication to create solutions that are reliable, scalable, and aligned with business needs.
 
-I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data—so they can reach objectives, improve efficiency, and innovate with confidence.
+I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data so they can reach objectives, improve efficiency, and innovate with confidence.
 
 I enjoy the spark of discovery when data reveals hidden patterns and opportunities.
 
