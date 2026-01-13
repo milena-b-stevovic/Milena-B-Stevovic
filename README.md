@@ -24,7 +24,7 @@
 
 
 ## 👩🏼‍🦰 About Me 
-I am a Senior Statistician and Data Analyst with 16+ years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
+I am a Senior Statistician and Data Analyst with 16 years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
 
 Over my career, I’ve designed statistical surveys, built automated pipelines, developed forecasting models, and created interactive dashboards that empower stakeholders to understand their data and act strategically.
 
@@ -38,9 +38,8 @@ I enjoy the spark of discovery when data reveals hidden patterns and opportuniti
       
 ## 📂 Featured Projects
 
-- **Project 1:** Financial Insights Dashboard.
-- **Project 2:** Industry Peer Benchmarking Framework.
-- **Project 3:** Building a sales forecasting model in Python.
+- **Project 1:** MS SQL Data Warehouse Project (case study of Apple sales data).
+- **Project 2:** Building a statistical forecasting model for sales data in Python.
 
 ## 📝 Currently Working on 
 
