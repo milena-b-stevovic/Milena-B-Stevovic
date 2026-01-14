@@ -39,7 +39,7 @@ I enjoy the spark of discovery when data reveals hidden patterns and opportuniti
 ## 📂 Featured Projects
 
 - **Project 1:** SQL Data Warehouse Project (case study of Apple sales data).
-- **Project 2:** Building a statistical forecasting model for economics data in Python.
+- **Project 2:** Statistical forecasting model for selected macroeconomic data in Python.
 
 ## 📝 Currently Working on 
 
