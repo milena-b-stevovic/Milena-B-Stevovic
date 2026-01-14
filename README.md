@@ -11,20 +11,17 @@
   <a href="https://linkedin.com/in/milena-b-stevovic">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your.drstevovic@gmail.com">
+  <a href="mailto:drstevovic@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/milena-b-stevovic">
     <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://medium.com/@your-medium-username">
-    <img src="https://img.shields.io/badge/Medium-Read-red?style=for-the-badge&logo=medium">
   </a>
 </p>
 
 
 ## 👩🏼‍🦰 About Me 
-I am a Senior Statistician and Data Analyst with 16 years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
+I am a Senior Statistician and Data Analyst with 17 years of experience transforming complex economic and statistical data into decision-ready insights for policymakers, institutions, and research bodies.
 
 Over my career, I’ve designed statistical surveys, built automated pipelines, developed forecasting models, and created interactive dashboards that empower stakeholders to understand their data and act strategically.
 
@@ -32,10 +29,8 @@ With expertise in Excel, Power Query, SQL, Power BI, and Python, I blend statist
 
 I’m now channeling this expertise into business‑oriented data analytics, committed to working closely with businesses to help them unlock the full potential of their data so they can reach objectives, improve efficiency, and innovate with confidence.
 
-I enjoy the spark of discovery when data reveals hidden patterns and opportunities.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
----
+### ❤️ What I Love About Data
+**"I enjoy the spark of discovery when data reveals hidden patterns and opportunities."**
       
 ## 🗂️ My Project Portfolio
 
@@ -56,7 +51,7 @@ I enjoy the spark of discovery when data reveals hidden patterns and opportuniti
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Experienced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20Query-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Query-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Power Query Skill Badge">
 </p>
 
 #### Programming & Automation
@@ -72,3 +67,15 @@ I enjoy the spark of discovery when data reveals hidden patterns and opportuniti
   <img src="https://img.shields.io/badge/Predictive%20Analytics-Expert-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+---
+
+## 📬 Let's Connect
+
+If you enjoyed exploring my projects and are interested in collaboration, feel free to contact me:
+
+*   💼 [LinkedIn](https://www.linkedin.com/in/milena-b-stevovic)
+*   🐙 [GitHub](https://github.com/milena-b-stevovic)
+*   📧 **Email:** drstevovic@gmail.com
+
+I'm always excited to connect about data opportunities, collaborate on interesting projects, or exchange ideas on analytics and business intelligence.
