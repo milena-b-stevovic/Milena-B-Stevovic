@@ -35,15 +35,16 @@ I’m now channeling this expertise into business‑oriented data analytics, com
 I enjoy the spark of discovery when data reveals hidden patterns and opportunities.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
+---
       
-## 📂 Featured Projects
+## 🗂️ My Project Portfolio
 
-- **Project 1:** SQL Data Warehouse Project (case study of Apple sales data).
-- **Project 2:** Statistical forecasting model for selected macroeconomic data in Python.
+| Project | Status | Technologies | Description |
+|---------|--------|--------------|-------------|
+| **[SQL Data Warehouse & Analytics](https://github.com/milena-b-stevovic/ms-sql-data-warehouse-project)** | ✅ Complete | SQL Server, Python, Power BI | End-to-end data warehousing with ETL and business intelligence |
+| **[Economic Series Forecasting](https://github.com/milena-b-stevovic/time-series-project)** | 🔄 In Progress | Python, ARIMA, Prophet | Predictive analytics for macroeconomic data forecasting |
+| **[Customer Segmentation](https://github.com/milena-b-stevovic/customer-segmentation)** | 📅 Planned Q1 2026| Python, Scikit-learn | RFM analysis and clustering techniques for marketing optimization |
 
-## 📝 Currently Working on 
-
-- Energy Expenditure Tracker for Households with Streamlit.
 
 ## 🛠️ Technical Skillset
 
