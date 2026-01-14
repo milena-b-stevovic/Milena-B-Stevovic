@@ -58,9 +58,8 @@ I’m now channeling this expertise into business‑oriented data analytics, com
 ### Domain Expertise:
 
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-2E9EF7?style=for-the-badge)
-![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-2131BB?style=for-the-badge)
 ![KPI Development](https://img.shields.io/badge/KPI_Development-9B59B6?style=for-the-badge)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-1ABC9C?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1ABC9C?style=for-the-badge)
 ![Survey Design](https://img.shields.io/badge/Survey_Design-E74C3C?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-F39C12?style=for-the-badge)
 
