@@ -33,7 +33,7 @@ I’m now channeling this expertise into business‑oriented data analytics, com
 
 | Project | Status | Technologies | Description |
 |---------|--------|--------------|-------------|
-| **[SQL Data Warehouse & Analytics](https://github.com/milena-b-stevovic/ms-sql-data-warehouse-project)** | ✅ Complete | SQL Server, Python, Power BI | End-to-end data warehousing with ETL and business intelligence |
+| **[SQL Data Warehouse](https://github.com/milena-b-stevovic/ms-sql-data-warehouse-project)** | ✅ Complete | SQL Server, Python, Draw.io | End-to-end data warehousing with ETL |
 | **[Economic Series Forecasting](https://github.com/milena-b-stevovic/time-series-project)** | 🔄 In Progress | Python, ARIMA, Prophet | Predictive analytics for macroeconomic data forecasting |
 | **[Customer Segmentation](https://github.com/milena-b-stevovic/customer-segmentation)** | 📅 Planned Q1 2026| Python, Scikit-learn | RFM analysis and clustering techniques for marketing optimization |
 
